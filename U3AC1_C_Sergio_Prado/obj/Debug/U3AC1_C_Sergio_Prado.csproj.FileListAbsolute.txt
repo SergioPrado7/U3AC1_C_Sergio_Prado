@@ -1,0 +1,7 @@
+C:\Users\Tecnologico\source\repos\U3AC1_C_Sergio_Prado\bin\Debug\U3AC1_C_Sergio_Prado.exe.config
+C:\Users\Tecnologico\source\repos\U3AC1_C_Sergio_Prado\bin\Debug\U3AC1_C_Sergio_Prado.exe
+C:\Users\Tecnologico\source\repos\U3AC1_C_Sergio_Prado\bin\Debug\U3AC1_C_Sergio_Prado.pdb
+C:\Users\Tecnologico\source\repos\U3AC1_C_Sergio_Prado\obj\Debug\U3AC1_C_Sergio_Prado.csproj.AssemblyReference.cache
+C:\Users\Tecnologico\source\repos\U3AC1_C_Sergio_Prado\obj\Debug\U3AC1_C_Sergio_Prado.csproj.CoreCompileInputs.cache
+C:\Users\Tecnologico\source\repos\U3AC1_C_Sergio_Prado\obj\Debug\U3AC1_C_Sergio_Prado.exe
+C:\Users\Tecnologico\source\repos\U3AC1_C_Sergio_Prado\obj\Debug\U3AC1_C_Sergio_Prado.pdb
